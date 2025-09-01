@@ -31,6 +31,6 @@ Features a rotating album art animation, playlist functionality, progress bar, a
 - **HTML5** – Structure  
 - **CSS3** – Styling, glassmorphism, animations  
 - **JavaScript (ES6)** – Event handling, audio playback, playlist management
-- 
+- Try it out:https://Akshaya2004-ak.github.io/minimalist-music-player/
 
 
